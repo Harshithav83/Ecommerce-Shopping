@@ -4,7 +4,7 @@
 
 # eCommerce Shopping Website
 
-An intuitive and fully functional online store, designed to provide a seamless shopping experience for users. This project includes user authentication, product management, shopping cart functionality, order management, and secure payment integration. Built with a modern tech stack including React.js, Node.js, Express.js, and MongoDB, it ensures a responsive and scalable platform suitable for various business needs.
+An intuitive and fully functional online store, designed to provide a seamless shopping experience for users. This project includes user authentication, product management, shopping cart functionality, order management, and secure payment integration. 
 
 ## Key Features
 - User authentication and account management
@@ -15,11 +15,10 @@ An intuitive and fully functional online store, designed to provide a seamless s
 - Responsive design for desktop and mobile
 
 ## Tech Stack
-- Frontend: React.js, HTML, CSS, JavaScript
+- Frontend: PHP, HTML, CSS, JavaScript
 - Backend: Node.js, Express.js
-- Database: MongoDB
-- Authentication: JWT
-- Payment Gateway: Stripe
+- Database: XAMPP
+
 
 ## Installation and Setup
 Clone the repository, install dependencies for both backend and frontend, set up environment variables, and run the development servers. Detailed instructions are provided in the README.
